@@ -3,7 +3,7 @@ package main
 
 /*
 #cgo pkg-config: guile-3.0
-#include "guile_embed.h"
+#include "csrc/guile_embed.h"
 #include <stdlib.h>
 */
 import "C"
